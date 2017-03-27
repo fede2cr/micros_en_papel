@@ -24,3 +24,7 @@ Se propone inicialmente utilizar un Arduino UNO sin procesador, en lugar de un c
 
 - [x] Poder crear circuitos con trazas que brinquen unas encima de otras: Se crea una línea de tierra bajo el chip AVR la cual distribuye del centro hacia afuera, y una línea de 5V del exterior del circuito hacia donde se necesita.
 - [ ] Ensamblar sin necesidad de soldadura: Es posible usar algo como cables con terminal de lagarto soldados a cinta de cobre si fuera necesario reutilizar una demostración para varios eventos, pero los estudiantes deben poder completar sus diseños sin necesidad de solar en el taller, abriendo las posibilidades de las instalaciones físicas a desarrollar el taller. Para esto se pretende usar la conocida como "Z Axis Tape" la cual se especializa en pasar la prueba de conductividad en su eje Z (en ambos lados de la cinta) por lo que es utilizado para instalar componentes de tipo SMD en tarjetas sin necesidad de usar una pistola de aire caliente.
+
+### Materiales de referencia
+* Tutorial [Arduino to breadboard](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard)
+* Tutorial [Arduino to breadboard - Standalone](https://www.arduino.cc/en/Main/Standalone)
